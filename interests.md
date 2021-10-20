@@ -1,8 +1,8 @@
 Back to [Home](README.md)  
 
--[Reading](###reading)  
--[Writing](###writing)  
--[Programming](###programming)  
+-[Reading](###-reading)  
+-[Writing](#writing)  
+-[Programming](#-programming)  
 -[Watching Youtube](###watching-youtube)
 
 
