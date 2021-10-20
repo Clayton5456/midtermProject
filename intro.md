@@ -1,7 +1,7 @@
 Back to [Home](README.md)
 
 # Introduction  
-![Headshot](./headhshot.jpg "headshot")
+![Headshot](./headshot.jpg "headshot")
 * Name: Clayton Marsh
 * Age: 20
 - 
