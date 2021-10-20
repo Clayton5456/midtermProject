@@ -1,9 +1,9 @@
 Back to [Home](README.md)  
 
--[Reading](###Reading)  
--[Writing](###Writing)  
--[Programming](###Programming)  
--[Watching Youtube](###Watching-Youtube)
+-[Reading](###reading)  
+-[Writing](###writing)  
+-[Programming](###programming)  
+-[Watching Youtube](###watching-youtube)
 
 
 ### Reading
