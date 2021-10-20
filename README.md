@@ -1,3 +1,3 @@
 # Clayton Marsh
 
-[Introduction](./projects.md)
+[Introduction](./intro.md)
