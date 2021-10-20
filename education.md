@@ -1,7 +1,8 @@
 Back to [Home](README.md)
 
 ### Secondary Education
-High School: [Lee's Summit West High School](https://lswhs.lsr7.org/)   
+High School: [Lee's Summit West High School](https://lswhs.lsr7.org/)
+![LSW logo](https://www.mshsaa.org/Resources/UploadedFiles/Logos/Lees_Summit_West_High_SchoolBoys637102808570076064.jpg "LSW logo")    
 High School GPA: 4.06 (weighted)  
 Honors: Academic Letter (2 years)
 
