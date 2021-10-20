@@ -1,1 +1,3 @@
-# midtermProject
+# Clayton Marsh
+
+[Introduction](./projects.md)
