@@ -6,7 +6,7 @@ A theoretical series of books involving a world in which monsters have overrun, 
 
 ### "Dndish game"
 (Working title)  
-A theoretical game involving mecahnics similar to those of the roleplay game Dungeons and Dragons. Originally started in Python, switched over to java when I started learning that
+A theoretical game involving mecahnics similar to those of the roleplay game Dungeons and Dragons. Originally started in Python, switched over to java when I started learning that   
 Example code:
 ```
 public int disadvantage()
