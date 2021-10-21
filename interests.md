@@ -19,7 +19,7 @@ The activity or skill or making coherent words on paper and composing text.
 The process or activity of writing computer programs
 
 ### Watching Youtube
-**Watching** *verb present participle*  
+**Watching** *(verb present participle)*  
 Look at or observe attentively over a period of time.  
 **Youtube** *(company)*  
 An American online video sharing service where users can watch, like, share, comment, and upload their own videos.
